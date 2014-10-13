@@ -1,0 +1,10 @@
+{
+	"name": "wanghuanming",
+	"height": 180,
+	"hobby": [
+		"programming", "movie", "reading"],
+	"school": {
+		"name": "suda",
+		"address": "suzhou"
+	}
+}

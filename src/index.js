@@ -1,4 +1,4 @@
-exports.json_parse = function() {
+exports.parse = function() {
 	var at, // 当前索引
 		ch,	// 当前字符
 		text, //整个文本
